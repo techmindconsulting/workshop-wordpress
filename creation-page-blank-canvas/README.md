@@ -46,7 +46,7 @@ Les ressources sont disponibles
 
 [Lien-2](images/esa-schema-rugby-ball-shaped-exoplanet.jpg)
 
-## Critères d'acceptence
+## Critères d'acceptance
 * Je dois pouvoir créer une page conforme à la maquette
 * Je dois pouvoir personnaliser l'idendité du site avec un logo, un titre, une description
     * Titre: Astro
