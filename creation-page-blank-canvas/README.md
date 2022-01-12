@@ -26,6 +26,8 @@ Gérer les réglages du site:
 ## Objectif
 L'objectif est de créer cette page en partant du thème Blank Canvas
 
+https://wordpress.com/fr/theme/blank-canvas
+
 ### Blank Canvas 
 C'est un thème WordPress gratuit. C'est un thème minimaliste, conçu pour les sites Web d'une seule page. Ses mises en page et ses publications uniques n'ont pas d'en-tête, de menus de navigation ou de widgets.
 
