@@ -41,8 +41,8 @@ Les visiteurs voudront savoir qui se trouve de l’autre côté de la page. Util
 
 
 ### Images: Importer via pexel
-> Le format des images doit être de 450 largeur et 450 hauteur
-
+> Le format des images doit être un carré et faire 100% de la largeur du parent (colonne)
+ 
 ## Block à utiliser
 * Groupe
 * Banière
